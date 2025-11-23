@@ -15,7 +15,7 @@ Fire-ART is available at: https://zenodo.org/records/17102363
 # Dataset Citation
 This dataset accompanies the manuscript: 
 
-Wen, Y., Qiao, Y., Lam, C.C., Brilakis, I., Lee, S. and Wong, M.O.*, 2025. Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing.
+Wen, Y., Qiao, Y., Lam, C.C., Brilakis, I., Lee, S. and Wong, M.O.*, 2025. Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing 231, 679–703. https://doi.org/10.1016/j.isprsjprs.2025.11.015
 
 # External Data Source Attribution
 1. The FireNet dataset (Boehm et al., 2019) is publicly available at:
